@@ -1,5 +1,6 @@
 # ATM_Application
-I made an atm application in C language, the details are in the README file.
+I made an atm application in C language.
+
 <img width="914" alt="Ekran Resmi 2022-08-30 22 45 46" src="https://user-images.githubusercontent.com/111610326/187530141-150be981-777b-49a7-b780-a8ec383db0e2.png">
 You need to enter a pin to access the ATM menu. The pin you will enter is 1525.
 
